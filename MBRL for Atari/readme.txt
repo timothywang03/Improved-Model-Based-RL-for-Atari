@@ -1,0 +1,1 @@
+Source code for the paper "Model Based Reinforcement Learning for Atari" is integrated into an open-source library. In the directory src we present a copy of the full source code with git data erased. We cannot guarantee that it doesn't contain other information that could identify the authors.
